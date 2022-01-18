@@ -12,5 +12,3 @@
 2. ```cd client```
 3. ```npm install``` or ```yarn install```
 4. ```npm run start``` or ```yarn start```
-
-**You can evaluate the work of the app here:** http://AnatoliyNBulyga.github.io/cryptocurrency-app
